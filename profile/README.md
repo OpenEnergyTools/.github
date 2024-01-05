@@ -31,7 +31,7 @@ Welcome to the OpenEnergyTools organization. This organization is aiming to host
 
 ### IEC 61850 based tools (work in progress)
 
-#### System Configuration ([WebAPP](https://openenergytools.github.io/scl-editor)) acc. to IEC 61850-6
+#### System Configuration ([SCLEditor](https://openenergytools.github.io/scl-editor)) acc. to IEC 61850-6
 
 - Specification:
   - Creating logical node typical
